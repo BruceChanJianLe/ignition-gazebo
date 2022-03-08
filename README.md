@@ -17,3 +17,9 @@ sudo apt-get install libignition-gazebo<#>-dev
 # Use tab tab to auto complete and select from list
 ```
 [link](https://ignitionrobotics.org/api/gazebo/6.1/install.html)
+
+## Usage
+
+```bash
+ign gazebo
+```
