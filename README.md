@@ -28,3 +28,7 @@ sudo apt-get install libignition-gazebo<#>-dev
 ign gazebo
 ```
 [link](https://ignitionrobotics.org/libs/gazebo)
+
+## Models
+
+This is where you can view/share/download models files from the community. 
